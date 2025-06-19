@@ -1,0 +1,131 @@
+body{
+    margin: 0%;
+    background-color: #f5dbc0;
+}
+.navigation{
+    position: fixed;
+    top: 0%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 100%;
+    box-sizing: border-box;
+    background-color: #333333;
+}
+.navigation ul{
+    list-style: none;
+    padding: 0%;
+    margin: 0%;
+    display: flex;
+}
+.navigation a{
+    color: #ffffff;
+    text-decoration: none;
+    margin-right: 20px;
+}
+h1{
+    padding-top: 2%;
+    color:  brown;
+}
+.d1{
+    float: left;
+    width: 50%;
+}
+h2{
+    color: green;
+}
+strong{
+    color: red;
+}
+.d2{
+    width: 100%;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.re4{
+    margin-bottom: 20px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 1px 1px rgba(0, 0, 0, 0.1);
+    text-decoration: none;
+    color: #333333;
+    width: 48%;
+    box-sizing: border-box;
+}
+.re6{
+    margin-bottom: 20px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 1px 1px rgba(0, 0, 0, 0.1);
+    text-decoration: none;
+    color: #333333;
+    width: 32%;
+    box-sizing: border-box;
+}
+.item :hover{
+    background-color: #f5e4d9;
+}
+.waku{
+    background-color: #ffffff;
+    border-radius: 5px;
+}
+.d3{
+    width: 50%;
+}
+.d4{
+    color: brown;
+}
+.d5{
+    text-align: center;
+}
+.d6{
+    height: px;
+    float: left;
+}
+.d7{
+    width: 100%;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.d8 img{
+    width: 20%;
+}
+.d9{
+    background-color: black;
+    text-align: center;
+}
+.d10{
+    color: white;
+    text-align: center;
+}
+.d11{
+    color: blue;
+    padding-top: 30px;
+}
+.d12{
+    color: blue;
+    padding-top: 40px;
+}
+.d13{
+    width: 80%;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.d14{
+    text-align: center;
+}
+.d15{
+    height: 300px;
+}
+.d16{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    flex-wrap: wrap;
+}
+.d17{
+    width: 90%;
+}
